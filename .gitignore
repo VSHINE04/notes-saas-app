@@ -1,5 +1,6 @@
-# Exclude markdown files
+# Exclude markdown files (except README)
 *.md
+!README.md
 
 # Dependencies
 node_modules/
