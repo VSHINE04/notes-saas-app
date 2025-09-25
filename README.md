@@ -69,6 +69,3 @@ npm start
 
 Both frontend and backend are configured for Vercel deployment with included `vercel.json` files.
 
-## License
-
-MIT
